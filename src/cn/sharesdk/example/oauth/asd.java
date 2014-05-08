@@ -29,9 +29,9 @@ import cn.sharesdk.framework.ShareSDK;
 import cn.sharesdk.framework.utils.UIHandler;
 import cn.sharesdk.onekeyshare.OnekeyShare;
 import cn.sharesdk.sina.weibo.SinaWeibo;
-import java.io.*;
 
-/** 中文
+
+/** 中文注释
  * ShareSDK 官网地址 ： http://www.sharesdk.cn </br>
  *1、这是用2.11版本的sharesdk，一定注意  </br>
  *2、如果要咨询客服，请加企业QQ 4006852216 </br>
